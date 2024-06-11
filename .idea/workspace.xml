@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2173cbdd-e924-4abc-854f-0a230be87d28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamStageDB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/controller/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/model/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/model/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/model/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/model/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/model/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/model/entity/Supplier.java" afterDir="false" />
+    <list default="true" id="2173cbdd-e924-4abc-854f-0a230be87d28" name="Changes" comment="create entities">
+      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/AbstractDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/ProductDAOInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,5 +45,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.itstep.aniskovich.java.examstagedb.dal" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create entities" />
+    <option name="LAST_COMMIT_MESSAGE" value="create entities" />
+  </component>
 </project>
