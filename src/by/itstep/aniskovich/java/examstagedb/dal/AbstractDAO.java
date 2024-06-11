@@ -1,7 +1,5 @@
 package by.itstep.aniskovich.java.examstagedb.dal;
 
-import by.itstep.aniskovich.java.examstagedb.model.entity.Product;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

@@ -10,6 +10,6 @@ public interface ProductDAOInterface {
     List<Product> getProductsByCategory(int category_id) throws SQLException;
     int getTotalProductsCount() throws SQLException;
     Product getCheapestProduct() throws SQLException;
-    Product getMosrExpensiveProduct() throws SQLException;
+    Product getMostExpensiveProduct() throws SQLException;
     Category getMostExpensiveCategory() throws SQLException;
 }

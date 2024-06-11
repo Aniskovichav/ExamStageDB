@@ -149,7 +149,7 @@ public class ProductDAO extends AbstractDAO<Product>
     }
 
     @Override
-    public Product getMosrExpensiveProduct() throws SQLException {
+    public Product getMostExpensiveProduct() throws SQLException {
         try (PreparedStatement statement = connection
                 .prepareStatement(GET_MOST_EXPENSIVE_PRODUCT);
              ResultSet resultSet = statement.executeQuery()) {
