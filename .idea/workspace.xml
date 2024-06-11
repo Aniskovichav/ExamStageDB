@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2173cbdd-e924-4abc-854f-0a230be87d28" name="Changes" comment="create DAL: CRUD, AbstractDAO, ProductDAOInterface, ProductDAO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/controller/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/AbstractDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/ProductDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/ProductDAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/aniskovich/java/examstagedb/dal/ProductDAOInterface.java" afterDir="false" />
-    </list>
+    <list default="true" id="2173cbdd-e924-4abc-854f-0a230be87d28" name="Changes" comment="create a demonstration of DAO in Main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +63,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create entities" />
     <MESSAGE value="create DAL: CRUD, AbstractDAO, ProductDAOInterface, ProductDAO" />
-    <option name="LAST_COMMIT_MESSAGE" value="create DAL: CRUD, AbstractDAO, ProductDAOInterface, ProductDAO" />
+    <MESSAGE value="update DAL: CRUD, AbstractDAO, ProductDAOInterface, ProductDAO" />
+    <MESSAGE value="create a demonstration of DAO in Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a demonstration of DAO in Main" />
   </component>
 </project>
